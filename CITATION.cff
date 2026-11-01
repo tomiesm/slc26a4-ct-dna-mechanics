@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article it accompanies."
+title: "Analysis code: Evaluating deep learning, expert CT grading, and variant DNA mechanics in SLC26A4-related hearing loss"
+authors:
+  - family-names: "Iešmantas"
+    given-names: "Tomas"
+    orcid: "https://orcid.org/0000-0002-1237-2448"
+    affiliation: "Kaunas University of Technology"
+license: MIT

@@ -1,0 +1,18 @@
+# Restricted data and results stay outside version control
+data/
+results/
+id_mapping.json
+*.xlsx
+*.csv
+*.parquet
+*.npz
+*.npy
+*.mat
+*.json
+*.pt
+*.png
+*.pdf
+
+# Python
+__pycache__/
+*.pyc

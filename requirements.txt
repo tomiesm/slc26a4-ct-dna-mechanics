@@ -1,0 +1,14 @@
+# Python 3.12; all steps except the variant subset (variants/)
+numpy==2.4.6
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.6.1
+statsmodels==0.14.6
+matplotlib==3.10.8
+openpyxl==3.1.5
+pyarrow==17.0.0
+pillow==12.3.0
+tqdm==4.67.1
+torch==2.6.0
+torchvision==0.21.0
+kornia==0.8.2
